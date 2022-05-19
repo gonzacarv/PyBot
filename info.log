@@ -1,0 +1,10 @@
+2021-05-09 20:36:38,213 INFO :: Mensaje de informacion
+2021-05-09 20:36:38,265 WARNING :: Mensaje de advertencia
+2021-05-09 20:36:38,265 ERROR :: Mensaje de error
+2021-05-09 20:38:48,671 INFO :: Mensaje de informacion
+2021-05-09 20:38:48,671 WARNING :: Mensaje de advertencia
+2021-05-09 20:38:48,672 ERROR :: Mensaje de error
+2021-05-09 20:43:46,959 INFO :: Mensaje de informacion
+2021-05-09 20:43:46,970 WARNING :: Mensaje de advertencia
+2021-05-09 20:43:46,970 ERROR :: Mensaje de error
+2021-05-09 20:43:46,970 INFO :: Conector de Binance
